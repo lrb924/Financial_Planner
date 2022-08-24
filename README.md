@@ -1,4 +1,4 @@
-# Module 5 Challenge: Financial Planner
+# Financial Planner
 
 ### Package Requirments
 `pip install x` where x is the below listed packages
